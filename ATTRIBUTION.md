@@ -42,5 +42,11 @@ and, at runtime, the operating system's own UI fonts when available (never redis
 | `assets/app-icon/soundcraft-macos-512.png` | SoundCraft contributors | original, rendered from `icon.svg` | MIT OR Apache-2.0 |
 | `assets/app-icon/soundcraft.icns` | SoundCraft contributors | original, rendered from `icon.svg` | MIT OR Apache-2.0 |
 | `assets/app-icon/soundcraft.ico` | SoundCraft contributors | original, rendered from `icon.svg` | MIT OR Apache-2.0 |
+| `android/app/src/main/res/mipmap-mdpi/ic_launcher.png` | SoundCraft contributors | original, Android launcher icon scaled from `soundcraft-1024.png` | MIT OR Apache-2.0 |
+| `android/app/src/main/res/mipmap-hdpi/ic_launcher.png` | SoundCraft contributors | original, Android launcher icon scaled from `soundcraft-1024.png` | MIT OR Apache-2.0 |
+| `android/app/src/main/res/mipmap-xhdpi/ic_launcher.png` | SoundCraft contributors | original, Android launcher icon scaled from `soundcraft-1024.png` | MIT OR Apache-2.0 |
+| `android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png` | SoundCraft contributors | original, Android launcher icon scaled from `soundcraft-1024.png` | MIT OR Apache-2.0 |
+| `android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png` | SoundCraft contributors | original, Android launcher icon scaled from `soundcraft-1024.png` | MIT OR Apache-2.0 |
+| `android/app/src/main/res/drawable-xxxhdpi/ic_launcher_foreground.png` | SoundCraft contributors | original, adaptive-icon foreground scaled from `soundcraft-1024.png` | MIT OR Apache-2.0 |
 | `assets/app-icon/hicolor/` | SoundCraft contributors | original, rendered from `icon.svg` (16–512 px PNGs and the scalable SVG) | MIT OR Apache-2.0 |
 | `docs/images/` | SoundCraft contributors | screenshots of SoundCraft rendered from the synthesised demo session | MIT OR Apache-2.0 |
